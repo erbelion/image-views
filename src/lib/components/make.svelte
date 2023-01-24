@@ -42,7 +42,10 @@ const clipboard = (elementId: string) => {
 </script>
 
 <div class="row">
-    <h3 class="mb-3">make an image</h3>
+    <h3 class="mb-3">
+        make an image<br>
+        <img src="/api/test-webp.webp" alt="xdxd">
+    </h3>
 
     <div class="col-12 mb-3">
         <div class="form-check form-switch d-inline-block pe-4">

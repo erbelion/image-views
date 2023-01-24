@@ -6,7 +6,6 @@ const handler: Handler = async (event: HandlerEvent, context: HandlerContext) =>
     // const { lang } = event.queryStringParameters;
 
     let img = fs.readFileSync(path.resolve(__dirname, './../assets/walkin.webp'), {encoding: 'base64'})
-    // let img = fs.readFileSync('./../assets/walkin.webp', {encoding: 'base64'})
 
     return {
         statusCode: 200,
