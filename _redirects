@@ -1,0 +1,2 @@
+/api/gnawty.webp    /.netlify/functions/gnawty  200
+/api/*              /.netlify/functions/:splat  200
