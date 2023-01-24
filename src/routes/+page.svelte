@@ -1,5 +1,5 @@
 <script>
-	import Make from '$lib/components/make.svelte'
+	// import Make from '$lib/components/make.svelte'
 </script>
 
 <svelte:head>
@@ -17,5 +17,5 @@
 
 		to your new<br />SvelteKit app
 	</h1> -->
-	<Make />
+	<!-- <Make /> -->
 </section>
