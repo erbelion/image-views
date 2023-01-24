@@ -29,6 +29,7 @@
 	},
 	"type": "module",
 	"dependencies": {
+		"@netlify/functions": "^1.4.0",
 		"@popperjs/core": "^2.11.6",
 		"@sveltejs/adapter-auto": "^1.0.2",
 		"npm": "^9.3.1"
