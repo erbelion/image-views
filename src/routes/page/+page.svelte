@@ -25,10 +25,10 @@ onMount(() => {
 
 {#if action === 'viewed'}
     <img src={eyeSvg} alt="viewed" height="80px" width="80px" />
-    <h5>you viewed {@html isUrl(id) ? `<a href='//${id}'>${id}</a>` : id}</h5>
+    <h5>you viewed {#if isUrl(id) } <a target="_blank" rel="noreferrer" href="//${id}">{id}</a> {:else} {id} {/if}</h5>
 {:else if action === 'liked'}
     <img src={heartSvg} alt="liked" height="80px" width="80px" />
-    <h5>you liked {@html isUrl(id) ? `<a href='//${id}'>${id}</a>` : id}</h5>
+    <h5>you liked {#if isUrl(id) } <a target="_blank" rel="noreferrer" href="//${id}">{id}</a> {:else} {id} {/if}</h5>
 {/if}
 
 <ViewsBadge {id} />
