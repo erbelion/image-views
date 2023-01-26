@@ -1,6 +1,4 @@
 <script lang="ts">
-	export const prerender = true
-
 	import github from '$lib/images/github.svg'
 	import '@/node_modules/bootstrap/dist/css/bootstrap.min.css'
 </script>
