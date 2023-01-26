@@ -6,4 +6,4 @@ Via [this website](https://views.erbek.space) you can create your own badge(s) c
 
 Simple project I made to learn Svelte, SvelteKit and serverless functions.
 
-Btw I also made the [PurgeCSS adapter for SvelteKit](https://github.com/erbelion/vite-plugin-laravel-purgecss) while coding the project. This allows you to easily install PurgeCSS to remove unused styles from the final css asset file.
+Btw I also made the [PurgeCSS adapter for SvelteKit](https://github.com/erbelion/vite-plugin-sveltekit-purgecss) while coding the project. This allows you to easily install PurgeCSS to remove unused styles from the final css asset files.

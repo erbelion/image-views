@@ -33,7 +33,7 @@ const handler: Handler = async (event: HandlerEvent, context: HandlerContext) =>
         return {
             statusCode: 302,
             headers: {
-                'Location': process.env.VITE_FULL_APP_URL as string + `/tooManyRequests.svg`
+                'Location': process.env.VITE_FULL_APP_URL as string + `/too-many-requests.svg`
             }
         }
     }

@@ -30,7 +30,8 @@
 	},
 	"type": "module",
 	"dependencies": {
-		"@erbelion/utils": "^0.0.5",
+		"@erbelion/utils": "^0.0.6",
+		"@erbelion/vite-plugin-sveltekit-purgecss": "^0.0.1",
 		"@netlify/functions": "^1.4.0",
 		"@popperjs/core": "^2.11.6",
 		"@supabase/supabase-js": "^2.4.1",

@@ -1,11 +1,9 @@
 <script lang="ts">
-export const prerender = false
-
 import { page } from '$app/stores'
 // import { goto } from '$app/navigation'
 
 import { onMount } from 'svelte'
-import { setUrlParams, isUrl } from '@erbelion/utils'
+import { updateUrlParams, isUrl } from '@erbelion/utils'
 
 import Make from '$lib/components/make.svelte'
 import ViewsBadge from '$lib/components/urlBadges/views.svelte'
@@ -19,7 +17,7 @@ const action: string = $page.url.searchParams.get('action') || 'viewed'
 
 onMount(() => {
     // reset url params
-    setUrlParams({
+    updateUrlParams({
         action: ''
     })
 })

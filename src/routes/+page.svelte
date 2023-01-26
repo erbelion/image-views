@@ -1,6 +1,4 @@
 <script lang="ts">
-export const prerender = false
-
 import Make from '$lib/components/make.svelte'
 </script>
 
