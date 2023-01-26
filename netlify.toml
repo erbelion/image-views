@@ -4,3 +4,9 @@
 
 [functions.gnawty]
   included_files = ["netlify/assets/walkin.webp"]
+
+[functions."views-svg"]
+  included_files = ["netlify/assets/eye.svg"]
+
+[functions."likes-svg"]
+  included_files = ["netlify/assets/heart.svg"]
