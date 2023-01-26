@@ -1,0 +1,23 @@
+<svg width="150.2" height="20" viewBox="0 0 1502 200" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" role="img" aria-label="too many requests 😔">
+  <title>too many requests 😔</title>
+  <linearGradient id="a" x2="0" y2="100%">
+    <stop offset="0" stop-opacity=".1" stop-color="#EEE"/>
+    <stop offset="1" stop-opacity=".1"/>
+  </linearGradient>
+  <mask id="m"><rect width="1502" height="200" rx="30" fill="#FFF"/></mask>
+  <g mask="url(#m)">
+    <rect width="1502" height="200" fill="#1384C5" x="0"/>
+    <rect width="1502" height="200" fill="url(#x)"/>
+  </g>
+  <g aria-hidden="true" fill="#fff" text-anchor="start" font-family="Verdana,DejaVu Sans,sans-serif" font-size="110">
+    <text x="172" y="148" textLength="0" fill="#000" opacity="0.25"></text>
+    <text x="162" y="138" textLength="0"></text>
+    <text x="267" y="148" textLength="1190" fill="#000" opacity="0.25">too many requests 😔</text>
+    <text x="257" y="138" textLength="1190">too many requests 😔</text>
+  </g>
+  <image x="60" y="35" width="130" height="130" xlink:href="data:image/svg+xml;base64,PCFET0NUWVBFIHN2ZyBQVUJMSUMgIi0vL1czQy8vRFREIFNWRyAxLjEvL0VOIiAiaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkIj4gPCEtLSBVcGxvYWRlZCB0bzogU1ZHIFJlcG8sIHd3dy5zdmdyZXBvLmNvbSwgVHJhbnNmb3JtZWQgYnk6IFNWRyBSZXBvIE1peGVyIFRvb2xzIC0tPiA8c3ZnIHdpZHRoPSI4MDBweCIgaGVpZ2h0PSI4MDBweCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPiA8ZyBpZD0iU1ZHUmVwb19iZ0NhcnJpZXIiIHN0cm9rZS13aWR0aD0iMCIvPiA8ZyBpZD0iU1ZHUmVwb190cmFjZXJDYXJyaWVyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz4gPGcgaWQ9IlNWR1JlcG9faWNvbkNhcnJpZXIiPiA8ZyBjbGlwLXBhdGg9InVybCgjY2xpcDBfNDI5XzExMDgzKSI+IDxwYXRoIGQ9Ik03IDcuMDAwMDZMMTcgMTcuMDAwMU03IDE3LjAwMDFMMTcgNy4wMDAwNiIgc3Ryb2tlPSIjZmZmZmZmIiBzdHJva2Utd2lkdGg9IjIuNSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+IDwvZz4gPGRlZnM+IDxjbGlwUGF0aCBpZD0iY2xpcDBfNDI5XzExMDgzIj4gPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSJ3aGl0ZSIvPiA8L2NsaXBQYXRoPiA8L2RlZnM+IDwvZz4gPC9zdmc+"/>
+  <linearGradient id="x" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0%" style="stop-color:#dd1919" />
+    <stop offset="100%" style="stop-color:#dd3919" />
+  </linearGradient>
+</svg>

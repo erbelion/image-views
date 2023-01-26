@@ -1,4 +1,6 @@
-/api/gnawty.webp /.netlify/functions/gnawty 200
-/api/test-svg.svg /.netlify/functions/test-svg 200
-/api/test-webp.webp /.netlify/functions/test-webp 200
+/api/gnawty.webp /.netlify/functions/webp/gnawty 200
+
+/api/views.svg /.netlify/functions/views-svg 200
+/api/likes.svg /.netlify/functions/likes-svg 200
+
 /api/* /.netlify/functions/:splat 200

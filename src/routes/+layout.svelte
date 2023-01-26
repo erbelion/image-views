@@ -1,4 +1,4 @@
-<script>
+<script lang="ts">
 	export const prerender = true
 
 	import github from '$lib/images/github.svg'
@@ -8,12 +8,12 @@
 <div class="app">
 	<div class="container container-fluid mt-5">
 		<div class="d-flex justify-content-between align-items-center">
-			<h1>image-views</h1>
+			<a href="/"><h1>image-views</h1></a>
 			<a href="/icon.webp" target="_blank" rel="noreferrer">
 				<img src="/icon.webp" alt="funny rat" style="vertical-align:middle" height="60"/>
 			</a>
 		</div>
-
+		
 		<hr>
 
 		<main>
@@ -29,3 +29,9 @@
 		</footer>
 	</div>
 </div>
+
+<style>
+a {
+  text-decoration: none;
+}
+</style>
