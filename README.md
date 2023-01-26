@@ -1,6 +1,6 @@
 # image-views
 
-[![views](http://localhost:8888/api/views.svg?id=github.com%2Ferbelion%2Fimage-views)](http://localhost:8888/page/?id=github.com%2Ferbelion%2Fimage-views) [![likes](http://localhost:8888/api/likes.svg?id=github.com%2Ferbelion%2Fimage-views)](http://localhost:8888/api/like?id=github.com%2Ferbelion%2Fimage-views)
+[![views](https://views.erbek.space/api/views.svg?id=views.erbek.space)](https://views.erbek.space/page/?id=views.erbek.space) [![likes](https://views.erbek.space/api/likes.svg?id=views.erbek.space)](https://views.erbek.space/api/like?id=views.erbek.space)
 
 Via [this website](https://views.erbek.space) you can create your own badge(s) containing views / likes of the image file.
 
