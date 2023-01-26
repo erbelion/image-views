@@ -36,7 +36,7 @@ const handler: Handler = async (event: HandlerEvent, context: HandlerContext) =>
     if(!event.queryStringParameters || event.queryStringParameters.id === undefined)
         return { statusCode: 400 }
 
-        event.queryStringParameters.id = event.queryStringParameters.id.toLowerCase()
+    event.queryStringParameters.id = event.queryStringParameters.id.toLowerCase()
 
     const score = await getScore(supabase, event.queryStringParameters.id, 'likes')
 
